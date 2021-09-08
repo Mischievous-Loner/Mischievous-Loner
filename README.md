@@ -2,8 +2,9 @@
 ![img](https://images.unsplash.com/photo-1544037118-737759b6d388?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8MTgxNDQ3fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&w=700&q=60)
 ### Chaotic yet exquisite => Just like me.
 ***
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mischievous-loner&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true&theme=shades-of-purple" alt="My github stats"/>
- 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mischievous-loner&show_icons=true&hide=contribs&include_all_commits=true&theme=shades-of-purple" alt="My github stats"/>
+
+***
 <!--
 **Mischievous-Loner/Mischievous-Loner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
