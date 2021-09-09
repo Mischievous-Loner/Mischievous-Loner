@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 So enjoy your time here.
 ***
 ![ghub](https://github.com/fluidicon.png)
+<img src="https://img.shields.io/github/last-commit/mischievous-loner/mischievous-loner?label=profile%20updated&style=rounded" align="right" width="100%"></img>
