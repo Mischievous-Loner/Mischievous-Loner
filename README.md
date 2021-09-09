@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋      (:P)   ![img](https://visitor-badge.glitch.me/badge?page_id=mischievous-loner.mischievous-loner)
 ![img](https://images.unsplash.com/photo-1544037118-737759b6d388?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8MTgxNDQ3fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&w=700&q=60)
 ### Chaotic yet exquisite => Just like me.
 ***
