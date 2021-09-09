@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  ...
 -->
-⚡ Fun fact: Since you are here, I guess you have nothing else to do.
-So enjoy your time here.
+.
+
+#### ⚡ Fun fact: Since you are here, I guess you have nothing else to do. So enjoy your time here.
 ***
-![ghub](https://github.com/fluidicon.png)
+![ghub jokes](https://readme-jokes.vercel.app/api)
 <img src="https://img.shields.io/github/last-commit/mischievous-loner/mischievous-loner?label=profile%20updated&style=rounded" align="right" width="100%"></img>
