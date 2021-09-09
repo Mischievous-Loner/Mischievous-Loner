@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 #### ⚡ Fun fact: Since you are here, I guess you have nothing else to do. So enjoy your time here.
 ***
-![ghub jokes](https://readme-jokes.vercel.app/api)
+![ghub jokes](https://readme-jokes.vercel.app/api?theme=radical)
 <img src="https://img.shields.io/github/last-commit/mischievous-loner/mischievous-loner?label=profile%20updated&style=rounded" align="right" width="100%"></img>
