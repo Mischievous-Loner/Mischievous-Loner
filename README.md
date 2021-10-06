@@ -1,8 +1,8 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img>      (:P)   ![img](https://visitor-badge.glitch.me/badge?page_id=mischievous-loner.mischievous-loner)
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></img>      (:P)
 ![img](https://images.unsplash.com/photo-1544037118-737759b6d388?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTV8MTgxNDQ3fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&w=700&q=60)
 ### Chaotic yet exquisite => Just like me.
 ***
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mischievous-loner&show_icons=true&hide=contribs&include_all_commits=true&theme=shades-of-purple" alt="My github stats"/>
+<img align="center" src="http://github-readme-stats-local.vercel.app//api?username=mischievous-loner&show_icons=true&hide=contribs&include_all_commits=true&theme=shades-of-purple" alt="My github stats"/>
 
 ***
 <!--
